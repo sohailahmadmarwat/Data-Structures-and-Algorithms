@@ -22,5 +22,5 @@ This repository contains my Data Structures and Algorithms (DSA) lab assignments
 This repo is a personal record of my DSA lab work — implementing core data structures (linked lists, arrays, matrices) and algorithms (sorting) from scratch, along with test classes for each.
 
 ## 👤 Author
-
-**Sohaila Ahmad Marwat**
+Sohail Ahmad
+GitHub: (https://github.com/sohailahmadmarwat)
